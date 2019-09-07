@@ -1,0 +1,81 @@
+[
+    {
+      "location": {
+        "name": "Bengaluru, India",
+        "lat": "12.967",
+        "long": "77.587",
+        "timezone": "5.5",
+        "alert": "",
+        "degreetype": "C",
+        "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+      },
+      "current": {
+        "temperature": "27",
+        "skycode": "30",
+        "skytext": "Partly Sunny",
+        "date": "2019-08-24",
+        "observationtime": "14:30:00",
+        "observationpoint": "Bengaluru, India",
+        "feelslike": "28",
+        "humidity": "66",
+        "winddisplay": "30 km/h West",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "windspeed": "30 km/h",
+        "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/30.gif"
+      },
+      "forecast": [
+        {
+          "low": "20",
+          "high": "26",
+          "skycodeday": "27",
+          "skytextday": "Mostly Cloudy",
+          "date": "2019-08-23",
+          "day": "Friday",
+          "shortday": "Fri",
+          "precip": ""
+        },
+        {
+          "low": "21",
+          "high": "27",
+          "skycodeday": "11",
+          "skytextday": "Rain Showers",
+          "date": "2019-08-24",
+          "day": "Saturday",
+          "shortday": "Sat",
+          "precip": "80"
+        },
+        {
+          "low": "21",
+          "high": "27",
+          "skycodeday": "28",
+          "skytextday": "Mostly Cloudy",
+          "date": "2019-08-25",
+          "day": "Sunday",
+          "shortday": "Sun",
+          "precip": "70"
+        },
+        {
+          "low": "20",
+          "high": "26",
+          "skycodeday": "9",
+          "skytextday": "Light Rain",
+          "date": "2019-08-26",
+          "day": "Monday",
+          "shortday": "Mon",
+          "precip": "80"
+        },
+        {
+          "low": "20",
+          "high": "27",
+          "skycodeday": "26",
+          "skytextday": "Cloudy",
+          "date": "2019-08-27",
+          "day": "Tuesday",
+          "shortday": "Tue",
+          "precip": "80"
+        }
+      ]
+    }
+  ]
+  

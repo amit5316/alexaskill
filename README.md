@@ -1,1 +1,1 @@
-# alexaskill
+# Skeleton project for Swagger
